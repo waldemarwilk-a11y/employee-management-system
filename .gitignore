@@ -1,0 +1,25 @@
+# Visual Studio
+
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Build files
+
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# Application data
+
+EMP.DAT
+*.dat
+
+# User files
+
+*.user
+*.suo
